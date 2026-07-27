@@ -13,7 +13,7 @@ The `data` directory contains processed datasets stored as pickle files. These i
 Raw molecular dynamics trajectories and simulation input files are available separately on Zenodo due to their size.
 Simulation input files (GROMACS and PLUMED), trajectories and processed data are available at:
 
-**Zenodo:** DOI to be added
+**Zenodo:** 10.5281/zenodo.21352447
 
 ## Citation
 

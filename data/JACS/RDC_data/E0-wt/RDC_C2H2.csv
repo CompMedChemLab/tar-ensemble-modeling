@@ -1,0 +1,4 @@
+res_id_1,res_name_1,atom_1,res_id_2,res_name_2,atom_2,bond_vector,rdc
+20,A,C2,20,A,HC2,C2H2,16.7
+22,A,C2,22,A,HC2,C2H2,5.9
+27,A,C2,27,A,HC2,C2H2,21.6

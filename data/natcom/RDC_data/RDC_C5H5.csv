@@ -1,0 +1,5 @@
+,res_id_1,res_name_1,atom_1,res_id_2,res_name_2,atom_2,bond_vector,rdc
+8,41,C,C5,41,C,HC5,C5H5,12.1
+18,24,C,C5,24,C,HC5,C5H5,-1.4
+21,25,U,C5,25,U,HC5,C5H5,4.6
+33,39,C,C5,39,C,HC5,C5H5,17.0

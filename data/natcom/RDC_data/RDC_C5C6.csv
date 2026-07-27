@@ -1,0 +1,6 @@
+,res_id_1,res_name_1,atom_1,res_id_2,res_name_2,atom_2,bond_vector,rdc
+9,42,U,C5,42,U,C6,C5C6,1.0
+14,23,U,C5,23,U,C6,C5C6,0.8
+20,25,U,C5,25,U,C6,C5C6,1.2
+31,37,C,C5,37,C,C6,C5C6,3.2
+34,39,C,C5,39,C,C6,C5C6,1.8
